@@ -30,8 +30,6 @@ For people not using Anaconda, please refer to this link: https://stackoverflow.
  
 References/Works cited:
  
-Build your own Optical Character Recognition (OCR) System using Google’s Tesseract 
-
-and OpenCV - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2020/05/build-your-own-ocr-google-tesseract-opencv/
+1.) Build your own Optical Character Recognition (OCR) System using Google’s Tesseract and OpenCV - Analytics Vidhya: https://www.analyticsvidhya.com/blog/2020/05/build-your-own-ocr-google-tesseract-opencv/
  
-Using Tesseract with python - Medium: https://medium.com/analytics-vidhya/using-tesseract-with-python-1cadbe37e756
+2.) Using Tesseract with python - Medium: https://medium.com/analytics-vidhya/using-tesseract-with-python-1cadbe37e756
