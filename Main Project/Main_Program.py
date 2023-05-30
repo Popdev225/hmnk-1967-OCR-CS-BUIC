@@ -8,6 +8,15 @@ import cv2
 from PIL import Image, ImageTk
 import os
 
+# Before starting, please note that you have to specify the path to tesseract-ocr
+# in order for pytesseract to work correctly. Path to tesseract-ocr is specified
+# as: pytesseract.pytesseract.tesseract_cmd = r'\Tesseract-OCR\tesseract.exe'
+# To know the path to the tesseract.exe, note down the path when installing
+# tesseract-ocr from https://github.com/UB-Mannheim/tesseract/wiki
+# Specify that path in "pytesseract.pytesseract.tesseract_cmd"
+
+pytesseract.pytesseract.tesseract_cmd = r'..\Tesseract-OCR\tesseract.exe'
+
 root = tk.Tk()
 root.title("Object Character Recognizer")
 root.geometry("1280x720")
