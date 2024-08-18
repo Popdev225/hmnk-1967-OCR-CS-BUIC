@@ -1,9 +1,6 @@
 # DIGITAL IMAGE PROCESSING SEMESTER PROJECT: CREATE AN OCR TOOL ON PYTHON
 Create an OCR tool using Tesseract on Python.
 
-This group-based project was completed by my partner, Saim Bin Zahid and myself, Hassan Mahmood, for their semester project for Digital Image Processing. 
-We are the students of 6th Semester of the Department of Computer Sciences at Bahria University, Islamabad Campus.
-
 NOTE: If you want to run this code on your PC, make sure that you have:
 
 1.) A compatible Python IDE (We used JetBrains' PyCharm Community Edition for this purpose).
